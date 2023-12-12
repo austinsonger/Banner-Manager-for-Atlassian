@@ -1,0 +1,1 @@
+# Banner-Manager-for-Atlassian
