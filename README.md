@@ -1,5 +1,6 @@
 # Banner Manager for Atlassian
 
+For ease of use. I'm just going to use Atlassian User Interface Framework.  https://aui.atlassian.com/
 
 ## Page Design
 
